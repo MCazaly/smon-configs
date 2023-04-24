@@ -203,6 +203,7 @@ title=Storage
 
 [Face-94233085764560][SensorColors]
 disk/1247b23d65fdfea8/used=0,170,127
+disk/326ea7e56ea79fd9/used=74,61,233
 disk/3760f397-0142-48b6-b5d9-40d0f47c3ca5/used=61,174,233
 disk/4cb410a4-d71d-47a1-a3c9-29ecf6652775/used=0,255,127
 disk/4ee3d6ae-e3fe-431f-aa78-eee3908f5da6/used=170,0,127
@@ -210,13 +211,14 @@ disk/715fbd02-0d89-42fc-9772-5c00e4f7d547/used=255,0,127
 
 [Face-94233085764560][SensorLabels]
 disk/1247b23d65fdfea8/used=Gayming (NTFS)
+disk/326ea7e56ea79fd9/used=Windows
 disk/3760f397-0142-48b6-b5d9-40d0f47c3ca5/used=Sovereign
 disk/4cb410a4-d71d-47a1-a3c9-29ecf6652775/used=Gayming
 disk/4ee3d6ae-e3fe-431f-aa78-eee3908f5da6/used=Home
 disk/715fbd02-0d89-42fc-9772-5c00e4f7d547/used=Store
 
 [Face-94233085764560][Sensors]
-highPrioritySensorIds=["disk/3760f397-0142-48b6-b5d9-40d0f47c3ca5/used","disk/4ee3d6ae-e3fe-431f-aa78-eee3908f5da6/used","disk/4cb410a4-d71d-47a1-a3c9-29ecf6652775/used","disk/1247b23d65fdfea8/used","disk/715fbd02-0d89-42fc-9772-5c00e4f7d547/used"]
+highPrioritySensorIds=["disk/3760f397-0142-48b6-b5d9-40d0f47c3ca5/used","disk/4ee3d6ae-e3fe-431f-aa78-eee3908f5da6/used","disk/4cb410a4-d71d-47a1-a3c9-29ecf6652775/used","disk/1247b23d65fdfea8/used","disk/715fbd02-0d89-42fc-9772-5c00e4f7d547/used","disk/326ea7e56ea79fd9/used"]
 
 [Face-94410222150464][Appearance]
 Title[en_GB]=Memory
@@ -595,6 +597,7 @@ cpu/cpu9/system=61,233,207
 highPrioritySensorIds=["cpu/cpu\\\\d+/system"]
 
 [page]
+Title[en_GB]=Overview
 Title[en_GB]=Overview
 Title=Overview
 Title=Overview
